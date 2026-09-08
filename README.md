@@ -1,6 +1,6 @@
 # 🛒 ShopArc — Full-Stack E-Commerce Platform
 
-ShopArc is a full-stack e-commerce web application built using the MERN stack. It provides a complete shopping workflow with user authentication, product browsing, cart management, address handling, order placement, and Razorpay payment integration.
+ShopArc is a full-stack e-commerce web application built using the MERN stack. It provides a complete shopping workflow with user authentication, product browsing, cart management, address handling, order placement.
 
 ---
 
